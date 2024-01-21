@@ -18,8 +18,7 @@ News App is an sample iOS App written in Swift using the MVVM architecture.
 
 NewsApp is an sample iOS App written in swift using the MVVM architecture. list News , detail News, See more to preview the article  
 ## choix
-: En utilisant Clean Architecture, 
-j'ai organisé le code de manière à ce que les différentes parties de l'application aient des responsabilités claires. 
+En utilisant Clean Architecture, j'ai organisé le code de manière à ce que les différentes parties de l'application aient des responsabilités claires. 
 Les couches (Entités, Cas d'utilisation, Interfaces Utilisateur) sont distinctes et interagissent de manière définie, facilitant ainsi la compréhension du code.
 
 MVVM 
@@ -47,15 +46,9 @@ Facilitation de la modularité : Les coordinators facilitent la modularité en p
 Chaque coordinator peut être responsable d'un flux de navigation spécifique, ce qui simplifie la maintenance et l'extension de l'application.
 
 ## Problémes identifies et à traiter 
-- ajout interface d'erreur
-- ajout filtre 
-- rendre l'application multi longue (localizable)
-  
-
-## Requirements
-
-- Xcode 10.2+
-- Swift 5.0+
+- Ajout interface d'erreur
+- Ajout filtre 
+- Rendre l'application multilingue (localizable)
 
 ## Installation
 Clean Architecture :
@@ -64,10 +57,7 @@ Clean Architecture :
 git clone https://github.com/mohamedcherif1920/NewsApp.git
 ```
 
-
-
-
-## Author
+## Auteur
 
 Mohamed cherif, m.cherif.m28@gmail.com
 
