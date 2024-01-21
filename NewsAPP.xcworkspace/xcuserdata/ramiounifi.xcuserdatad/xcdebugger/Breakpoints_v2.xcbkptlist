@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AE2E3A9A-08B9-42CF-ADC5-2C3249391235"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D07596E3-70E2-42AF-A1F3-668E0BA5EAAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAPP/Presentation/Details/DetailNewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "navigateToLink()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44F59115-828F-42DA-AF69-990D704A6513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAPP/Presentation/Details/DetailNewsFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getDetailViewController(item:coordinator:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F641E8A8-9F6E-43D2-B57C-429CC0674832"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAPP/Presentation/Details/DetailNewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(item:didTapSafariView:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F641E8A8-9F6E-43D2-B57C-429CC0674832 - 15f13487fb20754f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsAPP.DetailViewMoel.init(item: NewsAPP.Post, coordinator: Swift.Optional&lt;NewsAPP.DetailsCoordinator&gt;) -&gt; NewsAPP.DetailViewMoel"
+                  moduleName = "NewsAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramiounifi/Downloads/NewsAPP/NewsAPP/Presentation/Details/DetailNewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "F641E8A8-9F6E-43D2-B57C-429CC0674832 - da32b799d0ff3782"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsAPP.DetailViewMoel.init(item: NewsAPP.Post, didTapSafariView: (Swift.String) -&gt; ()) -&gt; NewsAPP.DetailViewMoel"
+                  moduleName = "NewsAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramiounifi/Downloads/NewsAPP/NewsAPP/Presentation/Details/DetailNewsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
